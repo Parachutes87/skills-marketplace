@@ -1,0 +1,27 @@
+{
+  "name": "Skills Marketplace - Public",
+  "description": "Public skills catalog (same as stable - for compatibility)",
+  "version": "1.0.0",
+  "owner": {
+    "name": "Token-Eater",
+    "url": "https://github.com/Token-Eater"
+  },
+  "plugins": [
+    {
+      "name": "example-skill",
+      "description": "Demonstrates proper skill structure and frontmatter format for marketplace skills",
+      "version": "1.0.0",
+      "author": "Skills Marketplace Team",
+      "category": "examples",
+      "tags": ["template", "documentation", "best-practices"],
+      "license": "MIT",
+      "repository": "https://github.com/Token-Eater/skills-marketplace",
+      "source": "./skills/example-skill"
+    }
+  ],
+  "metadata": {
+    "tier": "stable",
+    "audience": "public",
+    "note": "Alias for marketplace.json (stable catalog). Maintained for compatibility. Use marketplace.json or marketplace-preview.json as primary catalogs."
+  }
+}

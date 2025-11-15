@@ -189,6 +189,26 @@ node_modules/
 /playwright/.auth/
 .DS_Store
 
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Operating System files
+Desktop.ini
+._*
+Thumbs.db
+.Spotlight-V100
+.Trashes
+
+# Compiled files
+*.out
+
+# CSS preprocessors
+.sass-cache
+
 # Claude-Flow persistent memory database
 .swarm/
 
@@ -201,3 +221,7 @@ node_modules/
 .claude/hooks/.tts-provider-config
 .claude/tts-*.txt
 AgentVibes/
+
+# Personal Claude Code workflow infrastructure
+# (Not needed in public marketplace - users only need .claude-plugin/ catalogs)
+.claude/

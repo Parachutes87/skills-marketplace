@@ -1,0 +1,27 @@
+{
+  "name": "Skills Marketplace",
+  "description": "Community marketplace for Claude Code skills - Stable catalog",
+  "version": "1.0.0",
+  "owner": {
+    "name": "Token-Eater",
+    "url": "https://github.com/Token-Eater"
+  },
+  "plugins": [
+    {
+      "name": "example-skill",
+      "description": "Demonstrates proper skill structure and frontmatter format for marketplace skills",
+      "version": "1.0.0",
+      "author": "Skills Marketplace Team",
+      "category": "examples",
+      "tags": ["template", "documentation", "best-practices"],
+      "license": "MIT",
+      "repository": "https://github.com/Token-Eater/skills-marketplace",
+      "source": "./skills/example-skill"
+    }
+  ],
+  "metadata": {
+    "tier": "stable",
+    "audience": "public",
+    "note": "Production-ready skills, fully tested and documented. For beta skills, see marketplace-preview.json"
+  }
+}
