@@ -1,0 +1,21 @@
+id,name,age,gender,city,purchase_count,total_spent
+1,Alice Johnson,28,Female,New York,5,450.50
+2,Bob Smith,35,Male,Los Angeles,3,320.00
+3,Charlie Davis,42,Male,Chicago,8,890.25
+4,Diana Prince,31,Female,Houston,6,675.00
+5,Eve Martinez,29,Female,Phoenix,4,420.75
+6,Frank Wilson,38,Male,Philadelphia,7,780.00
+7,Grace Lee,45,Female,San Antonio,9,1050.50
+8,Henry Brown,33,Male,San Diego,5,550.00
+9,Iris Chen,27,Female,Dallas,3,280.00
+10,Jack Taylor,40,Male,San Jose,6,690.00
+11,Karen White,36,Female,Austin,8,920.00
+12,Leo Anderson,44,Male,Jacksonville,4,480.50
+13,Maria Garcia,30,Female,Fort Worth,7,770.25
+14,Nathan King,39,Male,Columbus,5,590.00
+15,Olivia Scott,32,Female,Charlotte,6,650.75
+16,Paul Moore,41,Male,San Francisco,9,1100.00
+17,Quinn Adams,26,Other,Indianapolis,2,180.00
+18,Rachel Green,34,Female,Seattle,5,540.00
+19,Sam Baker,37,Male,Denver,7,810.00
+20,Tara Hill,43,Female,Washington,8,950.25
