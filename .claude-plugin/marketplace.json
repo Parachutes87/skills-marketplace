@@ -17,7 +17,18 @@
       "license": "MIT",
       "repository": "https://github.com/Token-Eater/skills-marketplace",
       "source": "./skills/example-skill"
-    }
+    },
+        {
+      "name": "ba-user-story-creator",
+      "description": "Helps Business Analysts turn requirements into well-structured user stories with acceptance criteria",
+      "version": "1.0.0",
+      "author": "Parachutes87",
+      "category": "business-analysis",
+      "tags": ["business-analysis", "requirements", "user-stories", "agile"],
+      "license": "MIT",
+      "repository": "https://github.com/Parachutes87/Rathunas-Skills",
+      "source": "./BA-User-Story-Creator"
+    
   ],
   "metadata": {
     "tier": "stable",
